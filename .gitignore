@@ -1,0 +1,7 @@
+__pycache__
+venv
+drafts.py
+*.pdf
+mails
+received_mails
+config.py
